@@ -1,15 +1,14 @@
 # Userbot-personal
-This code is free it is not a code that is very long
-
+This code is free to use and it contains a few lines.
 
 ### Self Host
-- Termux or Heroku
+- Use Termux or Heroku
 
 
 ## Description
-- The license will not be there
+- The license will not be there (???????????????????????????)
 
-- I will only wear two or three things but I will not put much
+- I will only add a few changes here but I won't add much. (????????????)
 
 
 ## Support Group
